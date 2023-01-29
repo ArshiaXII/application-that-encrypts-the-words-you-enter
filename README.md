@@ -1,1 +1,1 @@
-#girdiğiniz-kelimeleri-şifreye-çeviren-uygulama.
+#girdiginiz-kelimeleri-sifreleyen-uygulama
